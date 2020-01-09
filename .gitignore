@@ -1,0 +1,10 @@
+.DS_Store
+profile
+
+node_modules
+package-lock.json
+
+*.log
+
+_site
+
