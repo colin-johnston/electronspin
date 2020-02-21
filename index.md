@@ -7,4 +7,4 @@ title: electronspin.com
 
 Domain For Sale
 
-[Inquiries](/contact)
+[Inquiries](https://sedo.com/search/details/?language=us&domain=ELECTRONSPIN.COM)
